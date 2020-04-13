@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=SUGOS Logo 
+Description=A theme that features a blank background with a logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/sugos-logo
+ScriptFile=/usr/share/plymouth/themes/sugos-logo/sugos-logo.script

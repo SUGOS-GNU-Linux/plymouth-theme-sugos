@@ -1,0 +1,15 @@
+Source: plymouth-theme-sugos
+Section: admin
+Priority: optional
+Maintainer: Reza Zulkarnain (SUGOS) <sugosdeveloper@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/SUGOS-GNU-Linux/plymouth-theme-sugos
+Vcs-Browser: https://github.com/SUGOS-GNU-Linux/plymouth-theme-sugos.git
+
+Package: plymouth-theme-sugos
+Architecture: all
+Depends: sugosystem
+Description: Paket Bawaan Theme Plymoth.
+ Paket Bawaan Theme Plymoth untuk SUGOS
+ Splash Boot Logo and Text Theme.
