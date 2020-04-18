@@ -10,6 +10,6 @@ Vcs-Browser: https://github.com/SUGOS-GNU-Linux/plymouth-theme-sugos.git
 Package: plymouth-theme-sugos
 Architecture: all
 Depends: sugosystem
-Description: Paket Bawaan Theme Plymoth.
- Paket Bawaan Theme Plymoth untuk SUGOS
- Splash Boot Logo and Text Theme.
+Description: Paket Bawaan Theme Plymouth.
+ Paket Bawaan Theme Plymouth untuk SUGOS Linux
+ Berisi Splash Boot Logo and Text Themes.

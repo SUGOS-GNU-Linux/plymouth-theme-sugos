@@ -4,8 +4,8 @@ Description=Text mode theme
 ModuleName=ubuntu-text
 
 [ubuntu-text]
-title=SUGOS
+title=SUGOS LINUX
 black=0x000000
 white=0xeeeeee
-brown=0x0078D6
+brown=0x80c33b
 blue=0xc7c7c7

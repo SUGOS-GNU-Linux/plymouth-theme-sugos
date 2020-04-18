@@ -13,7 +13,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 package=plymouth-theme-sugos
-version="plymouth-theme-sugos (1.0)"
+version="plymouth-theme-sugos (1.1)"
 figlet $package
 echo " Set Remote... "
 git remote set-url origin git@github.com:SUGOS-GNU-Linux/$package.git
@@ -22,7 +22,7 @@ git pull
 echo " Git Add Local... "
 git add -A
 echo " Git Commit Local... "
-git commit -am "Update $version"
+git commit -am "Perbaikan Bugs Dot Sugos Text Warna Biru, Dll"
 echo " Git Push Local to Github... "
 git push
 echo " Berhasil... "
