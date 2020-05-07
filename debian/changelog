@@ -1,9 +1,15 @@
+plymouth-theme-sugos (1.2) himate; urgency=medium
+
+  * Perbaikan Bugs Tidak bisa load logo booting
+
+ -- Reza Zulkarnain (SUGOS) <sugosdeveloper@gmail.com>  Thu, 07 May 2020 12:03:26 +0800 
+
 plymouth-theme-sugos (1.1) himate; urgency=medium
 
   * Perbaikan Bugs logo booting text warna hijau
   * Pergantian kode nama menjadi "himate"
 
- -- Reza Zulkarnain (SUGOS) <sugosdeveloper@gmail.com>  Sat, 18 Apr 2020 21:58:26 +0800  
+ -- Reza Zulkarnain (SUGOS) <sugosdeveloper@gmail.com>  Sat, 18 Apr 2020 21:58:26 +0800 
 
 plymouth-theme-sugos (1.0) te; urgency=medium
 
